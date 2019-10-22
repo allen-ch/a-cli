@@ -1,13 +1,12 @@
 {
-  "name": "a-cli",
+  "name": " ali-webpack",
   "version": "1.0.0",
-  "description": "this is a-cli",
-  "main": "index.js",
-  "bin": {
-    "fe": "bin/ali.js"
-  },
+  "description": "this is  ali-webpack",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ali": "bin/ali"
   },
   "dependencies": {
     "chalk": "^2.3.2",
